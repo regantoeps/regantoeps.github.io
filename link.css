@@ -1,0 +1,14 @@
+
+h1{
+  color: pink;
+  font-size: 100 pt;
+  text-align: center;
+  font-family: "Arial", Times, serif;
+}
+
+h2{
+  color: grey;
+  font: 20 pt;
+  text-align: center;
+  font-family: "Arial", Times, serif;
+}
